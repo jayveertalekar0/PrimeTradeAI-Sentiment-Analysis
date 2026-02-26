@@ -1,6 +1,3 @@
-Here is the **README.md content only** in clean copy-paste format.
-
----
 
 # PrimeTradeAI – Sentiment Driven Trader Performance Analysis
 
@@ -122,7 +119,3 @@ Save as interactive HTML:
 ```
 fig.write_html("figure_name.html")
 ```
-
----
-
-That’s it. Copy. Paste. Commit. Submit.
